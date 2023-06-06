@@ -1,1 +1,2 @@
 # odin-recipes
+This project is basically about practicing my basic html acquired skills by creating a recipe page for some delicious Nigerian dishes. beyond getting it completelely right, its about showing some progress and evidences that i am indeed learning. Enjoy the journey Presh.
